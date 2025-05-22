@@ -1,0 +1,3 @@
+victoria@MacBook-Pro-victoria app %     python3 -m venv myenv
+victoria@MacBook-Pro-victoria app % . myenv/bin/activate
+(myenv) victoria@MacBook-Pro-victoria app % streamlit run app.py  
